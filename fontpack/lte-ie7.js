@@ -14,7 +14,6 @@ window.onload = function() {
 			'icon-tag' : '&#xf02b;',
 			'icon-flag' : '&#xf024;',
 			'icon-lock' : '&#xf023;',
-			'icon-list' : '&#xf03a;',
 			'icon-map-marker' : '&#xf041;',
 			'icon-calendar-empty' : '&#xf133;',
 			'icon-chevron-down' : '&#xf078;',
@@ -37,10 +36,17 @@ window.onload = function() {
 			'icon-tint' : '&#xf043;',
 			'icon-remove' : '&#xf00d;',
 			'icon-remove-sign' : '&#xf057;',
-			'icon-busbud-logo' : '&#xe002;'
+			'icon-busbud-logo' : '&#xe002;',
+			'icon-calendar' : '&#xf073;',
+			'icon-user' : '&#xf007;',
+			'icon-repeat' : '&#xf01e;',
+			'icon-shopping-cart' : '&#xf07a;',
+			'icon-list' : '&#xf03a;',
+			'icon-list-alt' : '&#xf022;',
+			'icon-location-arrow' : '&#xf124;'
 		},
 		els = document.getElementsByTagName('*'),
-		i, attr, html, c, el;
+		i, attr, c, el;
 	for (i = 0; ; i += 1) {
 		el = els[i];
 		if(!el) {
