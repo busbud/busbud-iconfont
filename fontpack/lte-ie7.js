@@ -43,7 +43,10 @@ window.onload = function() {
 			'icon-shopping-cart' : '&#xf07a;',
 			'icon-list' : '&#xf03a;',
 			'icon-list-alt' : '&#xf022;',
-			'icon-location-arrow' : '&#xf124;'
+			'icon-location-arrow' : '&#xf124;',
+			'icon-resize-horizontal' : '&#xf07e;',
+			'icon-check' : '&#xf046;',
+			'icon-dollar' : '&#xf155;'
 		},
 		els = document.getElementsByTagName('*'),
 		i, attr, c, el;

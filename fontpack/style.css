@@ -28,7 +28,7 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="icon-"] {
 */
-.icon-time, .icon-road, .icon-cog, .icon-trash, .icon-refresh, .icon-tag, .icon-flag, .icon-lock, .icon-map-marker, .icon-calendar-empty, .icon-chevron-down, .icon-search, .icon-caret-right, .icon-group, .icon-unlock-alt, .icon-pause, .icon-print, .icon-download-alt, .icon-ticket, .icon-reply, .icon-ok, .icon-share-alt, .icon-phone, .icon-bullhorn, .icon-globe, .icon-wifi, .icon-plug, .icon-tint, .icon-remove, .icon-remove-sign, .icon-busbud-logo, .icon-calendar, .icon-user, .icon-repeat, .icon-shopping-cart, .icon-list, .icon-list-alt, .icon-location-arrow {
+.icon-time, .icon-road, .icon-cog, .icon-trash, .icon-refresh, .icon-tag, .icon-flag, .icon-lock, .icon-map-marker, .icon-calendar-empty, .icon-chevron-down, .icon-search, .icon-caret-right, .icon-group, .icon-unlock-alt, .icon-pause, .icon-print, .icon-download-alt, .icon-ticket, .icon-reply, .icon-ok, .icon-share-alt, .icon-phone, .icon-bullhorn, .icon-globe, .icon-wifi, .icon-plug, .icon-tint, .icon-remove, .icon-remove-sign, .icon-busbud-logo, .icon-calendar, .icon-user, .icon-repeat, .icon-shopping-cart, .icon-list, .icon-list-alt, .icon-location-arrow, .icon-resize-horizontal, .icon-check, .icon-dollar {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -151,4 +151,13 @@ you can use the generic selector below, but it's slower:
 }
 .icon-location-arrow:before {
 	content: "\f124";
+}
+.icon-resize-horizontal:before {
+	content: "\f07e";
+}
+.icon-check:before {
+	content: "\f046";
+}
+.icon-dollar:before {
+	content: "\f155";
 }
