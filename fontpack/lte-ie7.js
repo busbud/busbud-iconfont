@@ -46,7 +46,8 @@ window.onload = function() {
 			'icon-location-arrow' : '&#xf124;',
 			'icon-resize-horizontal' : '&#xf07e;',
 			'icon-check' : '&#xf046;',
-			'icon-dollar' : '&#xf155;'
+			'icon-dollar' : '&#xf155;',
+			'icon-chevron-right' : '&#xf054;'
 		},
 		els = document.getElementsByTagName('*'),
 		i, attr, c, el;
