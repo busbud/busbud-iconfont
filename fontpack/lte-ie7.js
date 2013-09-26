@@ -19,7 +19,6 @@ window.onload = function() {
 			'icon-chevron-down' : '&#xf078;',
 			'icon-search' : '&#xf002;',
 			'icon-caret-right' : '&#xf0da;',
-			'icon-group' : '&#xf0c0;',
 			'icon-unlock-alt' : '&#xf13e;',
 			'icon-pause' : '&#xf04c;',
 			'icon-print' : '&#xf02f;',
@@ -38,7 +37,6 @@ window.onload = function() {
 			'icon-remove-sign' : '&#xf057;',
 			'icon-busbud-logo' : '&#xe002;',
 			'icon-calendar' : '&#xf073;',
-			'icon-user' : '&#xf007;',
 			'icon-repeat' : '&#xf01e;',
 			'icon-shopping-cart' : '&#xf07a;',
 			'icon-list' : '&#xf03a;',
@@ -47,7 +45,10 @@ window.onload = function() {
 			'icon-resize-horizontal' : '&#xf07e;',
 			'icon-check' : '&#xf046;',
 			'icon-dollar' : '&#xf155;',
-			'icon-chevron-right' : '&#xf054;'
+			'icon-chevron-right' : '&#xf054;',
+			'icon-user' : '&#xe003;',
+			'icon-users' : '&#xe004;',
+			'icon-bus' : '&#xe005;'
 		},
 		els = document.getElementsByTagName('*'),
 		i, attr, c, el;
