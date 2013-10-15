@@ -28,7 +28,7 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="icon-"] {
 */
-.icon-time, .icon-road, .icon-cog, .icon-trash, .icon-refresh, .icon-tag, .icon-flag, .icon-lock, .icon-map-marker, .icon-calendar-empty, .icon-chevron-down, .icon-search, .icon-caret-right, .icon-unlock-alt, .icon-pause, .icon-print, .icon-download-alt, .icon-ticket, .icon-reply, .icon-ok, .icon-share-alt, .icon-phone, .icon-bullhorn, .icon-globe, .icon-wifi, .icon-plug, .icon-tint, .icon-remove, .icon-remove-sign, .icon-busbud-logo, .icon-calendar, .icon-repeat, .icon-shopping-cart, .icon-list, .icon-list-alt, .icon-location-arrow, .icon-resize-horizontal, .icon-check, .icon-dollar, .icon-chevron-right, .icon-user, .icon-users, .icon-bus {
+.icon-time, .icon-road, .icon-cog, .icon-trash, .icon-refresh, .icon-tag, .icon-flag, .icon-lock, .icon-map-marker, .icon-calendar-empty, .icon-chevron-down, .icon-chevron-right, .icon-caret-right, .icon-unlock-alt, .icon-pause, .icon-print, .icon-download-alt, .icon-ticket, .icon-reply, .icon-ok, .icon-share-alt, .icon-phone, .icon-bullhorn, .icon-globe, .icon-wifi, .icon-plug, .icon-tint, .icon-remove, .icon-remove-sign, .icon-busbud-logo, .icon-calendar, .icon-repeat, .icon-shopping-cart, .icon-list, .icon-list-alt, .icon-location-arrow, .icon-resize-horizontal, .icon-check, .icon-dollar, .icon-search, .icon-user, .icon-users, .icon-bus, .icon-twitter, .icon-facebook-sign, .icon-rss {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -71,7 +71,7 @@ you can use the generic selector below, but it's slower:
 .icon-chevron-down:before {
 	content: "\f078";
 }
-.icon-search:before {
+.icon-chevron-right:before {
 	content: "\f002";
 }
 .icon-caret-right:before {
@@ -155,7 +155,7 @@ you can use the generic selector below, but it's slower:
 .icon-dollar:before {
 	content: "\f155";
 }
-.icon-chevron-right:before {
+.icon-search:before {
 	content: "\f054";
 }
 .icon-user:before {
@@ -166,4 +166,13 @@ you can use the generic selector below, but it's slower:
 }
 .icon-bus:before {
 	content: "\e005";
+}
+.icon-twitter:before {
+	content: "\f099";
+}
+.icon-facebook-sign:before {
+	content: "\f082";
+}
+.icon-rss:before {
+	content: "\f09e";
 }

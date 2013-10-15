@@ -17,7 +17,7 @@ window.onload = function() {
 			'icon-map-marker' : '&#xf041;',
 			'icon-calendar-empty' : '&#xf133;',
 			'icon-chevron-down' : '&#xf078;',
-			'icon-search' : '&#xf002;',
+			'icon-chevron-right' : '&#xf002;',
 			'icon-caret-right' : '&#xf0da;',
 			'icon-unlock-alt' : '&#xf13e;',
 			'icon-pause' : '&#xf04c;',
@@ -45,10 +45,13 @@ window.onload = function() {
 			'icon-resize-horizontal' : '&#xf07e;',
 			'icon-check' : '&#xf046;',
 			'icon-dollar' : '&#xf155;',
-			'icon-chevron-right' : '&#xf054;',
+			'icon-search' : '&#xf054;',
 			'icon-user' : '&#xe003;',
 			'icon-users' : '&#xe004;',
-			'icon-bus' : '&#xe005;'
+			'icon-bus' : '&#xe005;',
+			'icon-twitter' : '&#xf099;',
+			'icon-facebook-sign' : '&#xf082;',
+			'icon-rss' : '&#xf09e;'
 		},
 		els = document.getElementsByTagName('*'),
 		i, attr, c, el;
