@@ -3,7 +3,9 @@ BusBud Custom Icon Font
 
 This is a custom icon font to be used on all BusBud products.
 
-It includes a small subset of icons from a few popular open-source icon fonts as well as a few custom icons.
+It includes a small subset of icons from a few popular open-source icon fonts (bootstrap) as well as a few custom icons and a few we purchased.
+
+The pixel grid follows bootstrap at 14px, so before importing icons from other sets, they should be optimized for a 14px grid.
 
 The font is managed and generated via [IcoMoon.io](http://icomoon.io)
 
@@ -11,12 +13,13 @@ The font is managed and generated via [IcoMoon.io](http://icomoon.io)
 ###Instructions To Update Font
 
 - Go to the [IcoMoon App](http://icomoon.io/app/)
-- Click **Load Session** (bottom right) and upload the [session file](IcoMoon Session.js) from this repo ("IcoMoon Session.js")
-- Make changes, upload svg files, etc
-- Click the **Generate Font** (bottom center)
+- Log in with username `devs@busbud.com` -- ask Theo for password (hint: address)
+- Load up the project (manage Projects > Busbud Icon Font > Load)
+- Make changes, upload new icons (svg files), etc
+- Click **Font** (bottom center)
 - Click **Download** (bottom center)
 - Replace the contents of the "fontpack" directory of this repo with contents of the zip (but remove the containing folder)
-- Click **Store Session** (bottom right) and replace the IcoMoon session file with the newer generated file
+- Add / replace any custom svgs in the custom_icons directory
 - Increment version number in "bower.json" file
 - Save changes to git
 
