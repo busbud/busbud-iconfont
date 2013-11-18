@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "homepage": "https://github.com/busbud/busbud-iconfont",
   "authors": ["BusBud <devs@busbud.com>"],
-  "license": "MIT",
   "private": true,
   "ignore": [
     "**/.*",
@@ -11,6 +10,6 @@
     "bower_components",
     "custom_icons",
     "README.md",
-    "IcoMoon Session.json"
+    "Busbud Public Website.json"
   ]
 }

@@ -9,7 +9,7 @@
 	font-style: normal;
 }
 
-[class*="icon-"] {
+[class^="icon-"], [class*=" icon-"] {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -155,9 +155,18 @@
 .icon-calendar-empty:before {
 	content: "\e62d";
 }
+.icon-star:before {
+	content: "\e630";
+}
 .icon-connection:before {
 	content: "\e62a";
 }
 .icon-power-cord:before {
 	content: "\e62b";
+}
+.icon-radio-checked:before {
+	content: "\e62e";
+}
+.icon-radio-unchecked:before {
+	content: "\e62f";
 }

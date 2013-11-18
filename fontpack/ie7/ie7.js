@@ -1,6 +1,12 @@
 /* To avoid CSS expressions while still supporting IE 7 and IE 6, use this script */
 /* The script tag referring to this file must be placed before the ending body tag. */
 
+/* Use conditional comments in order to target IE 7 and older:
+	<!--[if lt IE 8]><!-->
+	<script src="ie7/ie7.js"></script>
+	<!--<![endif]-->
+*/
+
 (function() {
 	function addIcon(el, entity) {
 		var html = el.innerHTML;
@@ -51,20 +57,19 @@
 		'icon-bus': '&#xe629;',
 		'icon-refresh': '&#xe62c;',
 		'icon-calendar-empty': '&#xe62d;',
+		'icon-star': '&#xe630;',
 		'icon-connection': '&#xe62a;',
 		'icon-power-cord': '&#xe62b;',
+		'icon-radio-checked': '&#xe62e;',
+		'icon-radio-unchecked': '&#xe62f;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),
-		i, attr, c, el;
+		i, c, el;
 	for (i = 0; ; i += 1) {
 		el = els[i];
 		if(!el) {
 			break;
-		}
-		attr = el.getAttribute('data-icon');
-		if (attr) {
-			addIcon(el, attr);
 		}
 		c = el.className;
 		c = c.match(/icon-[^\s'"]+/);

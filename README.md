@@ -14,13 +14,15 @@ The font is managed and generated via [IcoMoon.io](http://icomoon.io)
 
 - Go to the [IcoMoon App](http://icomoon.io/app/)
 - Log in with username `devs@busbud.com` -- ask Theo for password (hint: address)
-- Load up the project (manage Projects > Busbud Icon Font > Load)
+- Load up the project using the json file in this repo ( Manage Projects > Import Project > Select json file )
 - Make changes, upload new icons (svg files), etc
 - Click **Font** (bottom center)
 - Click **Download** (bottom center)
 - Replace the contents of the "fontpack" directory of this repo with contents of the zip (but remove the containing folder)
 - Add / replace any custom svgs in the custom_icons directory
 - Increment version number in "bower.json" file
+- Update project json file ( Manage Projects > Busbud Public Website > Download )
+- Replace "Busbud Public Website.json" with new one
 - Save changes to git
 
 
