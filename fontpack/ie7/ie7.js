@@ -58,6 +58,7 @@
 		'icon-refresh': '&#xe62c;',
 		'icon-calendar-empty': '&#xe62d;',
 		'icon-star': '&#xe630;',
+		'icon-envelope': '&#xe631;',
 		'icon-connection': '&#xe62a;',
 		'icon-power-cord': '&#xe62b;',
 		'icon-radio-checked': '&#xe62e;',

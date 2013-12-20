@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "Busbud Public Website",
-		"lastOpened": 1384795232993,
+		"lastOpened": 1387556742676,
 		"created": 1381083457739
 	},
 	"iconSets": [
@@ -67,7 +67,7 @@
 					"prevSize": 32,
 					"code": 58918,
 					"name": "users",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -76,7 +76,7 @@
 					"prevSize": 32,
 					"code": 58919,
 					"name": "user",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -85,7 +85,7 @@
 					"prevSize": 32,
 					"code": 58920,
 					"name": "busbud-logo",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -94,7 +94,7 @@
 					"prevSize": 32,
 					"code": 58921,
 					"name": "bus",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				}
 			],
@@ -4723,12 +4723,17 @@
 					"prevSize": 28,
 					"code": 58914,
 					"name": "search",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
-					"order": 0,
-					"id": 4
+					"order": 50,
+					"id": 4,
+					"prevSize": 28,
+					"code": 58929,
+					"name": "envelope",
+					"tempChar": "",
+					"ligatures": ""
 				},
 				{
 					"order": 0,
@@ -4740,7 +4745,7 @@
 					"prevSize": 28,
 					"code": 58928,
 					"name": "star",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4773,7 +4778,7 @@
 					"prevSize": 28,
 					"code": 58899,
 					"name": "ok",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4782,7 +4787,7 @@
 					"prevSize": 28,
 					"code": 58906,
 					"name": "remove",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4807,7 +4812,7 @@
 					"prevSize": 28,
 					"code": 58882,
 					"name": "cog",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4816,7 +4821,7 @@
 					"prevSize": 28,
 					"code": 58883,
 					"name": "trash",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4833,7 +4838,7 @@
 					"prevSize": 28,
 					"code": 58880,
 					"name": "time",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4842,7 +4847,7 @@
 					"prevSize": 28,
 					"code": 58881,
 					"name": "road",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4851,7 +4856,7 @@
 					"prevSize": 28,
 					"code": 58892,
 					"name": "download-alt",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4876,7 +4881,7 @@
 					"prevSize": 28,
 					"code": 58884,
 					"name": "repeat",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4885,7 +4890,7 @@
 					"prevSize": 28,
 					"code": 58924,
 					"name": "refresh",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4894,7 +4899,7 @@
 					"prevSize": 28,
 					"code": 58910,
 					"name": "list-alt",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4903,7 +4908,7 @@
 					"prevSize": 28,
 					"code": 58887,
 					"name": "lock",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4912,7 +4917,7 @@
 					"prevSize": 28,
 					"code": 58886,
 					"name": "flag",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4945,7 +4950,7 @@
 					"prevSize": 28,
 					"code": 58885,
 					"name": "tag",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4966,7 +4971,7 @@
 					"prevSize": 28,
 					"code": 58891,
 					"name": "print",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5015,7 +5020,7 @@
 					"prevSize": 28,
 					"code": 58909,
 					"name": "list",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5044,7 +5049,7 @@
 					"prevSize": 28,
 					"code": 58889,
 					"name": "map-marker",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5057,7 +5062,7 @@
 					"prevSize": 28,
 					"code": 58905,
 					"name": "tint",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5074,7 +5079,7 @@
 					"prevSize": 28,
 					"code": 58898,
 					"name": "check",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5103,7 +5108,7 @@
 					"prevSize": 28,
 					"code": 58896,
 					"name": "pause",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5136,7 +5141,7 @@
 					"prevSize": 28,
 					"code": 58894,
 					"name": "chevron-right",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5153,7 +5158,7 @@
 					"prevSize": 28,
 					"code": 58907,
 					"name": "remove-sign",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5206,7 +5211,7 @@
 					"prevSize": 28,
 					"code": 58901,
 					"name": "share-alt",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5267,7 +5272,7 @@
 					"prevSize": 28,
 					"code": 58890,
 					"name": "calendar",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5292,7 +5297,7 @@
 					"prevSize": 28,
 					"code": 58893,
 					"name": "chevron-down",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5305,7 +5310,7 @@
 					"prevSize": 28,
 					"code": 58908,
 					"name": "shopping-cart",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5326,7 +5331,7 @@
 					"prevSize": 28,
 					"code": 58912,
 					"name": "resize-horizontal",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5343,7 +5348,7 @@
 					"prevSize": 28,
 					"code": 58916,
 					"name": "facebook-sign",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5420,7 +5425,7 @@
 					"prevSize": 28,
 					"code": 58902,
 					"name": "phone",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5441,7 +5446,7 @@
 					"prevSize": 28,
 					"code": 58915,
 					"name": "twitter",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5466,7 +5471,7 @@
 					"prevSize": 28,
 					"code": 58917,
 					"name": "rss",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5479,7 +5484,7 @@
 					"prevSize": 28,
 					"code": 58903,
 					"name": "bullhorn",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5528,7 +5533,7 @@
 					"prevSize": 28,
 					"code": 58904,
 					"name": "globe",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5657,7 +5662,7 @@
 					"prevSize": 28,
 					"code": 58895,
 					"name": "caret-right",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5870,7 +5875,7 @@
 					"prevSize": 28,
 					"code": 58900,
 					"name": "reply",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -5943,7 +5948,7 @@
 					"prevSize": 28,
 					"code": 58911,
 					"name": "location-arrow",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -6004,7 +6009,7 @@
 					"prevSize": 28,
 					"code": 58925,
 					"name": "calendar-empty",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -6053,7 +6058,7 @@
 					"prevSize": 28,
 					"code": 58888,
 					"name": "unlock-alt",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -6082,7 +6087,7 @@
 					"prevSize": 28,
 					"code": 58897,
 					"name": "ticket",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -6147,7 +6152,7 @@
 					"prevSize": 28,
 					"code": 58913,
 					"name": "dollar",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -6354,7 +6359,8 @@
 					"order": 0,
 					"id": 360
 				}
-			]
+			],
+			"invisible": true
 		},
 		{
 			"id": 1,
@@ -12197,7 +12203,7 @@
 					"prevSize": 32,
 					"code": 58922,
 					"name": "connection",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -12802,7 +12808,7 @@
 					"prevSize": 32,
 					"code": 58923,
 					"name": "power-cord",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -13355,7 +13361,7 @@
 					"prevSize": 32,
 					"code": 58926,
 					"name": "radio-checked",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -13364,7 +13370,7 @@
 					"prevSize": 32,
 					"code": 58927,
 					"name": "radio-unchecked",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -13903,7 +13909,8 @@
 					"order": 0,
 					"id": 451
 				}
-			]
+			],
+			"invisible": true
 		},
 		{
 			"id": 0,
@@ -18458,7 +18465,8 @@
 					"order": 0,
 					"id": 284
 				}
-			]
+			],
+			"invisible": true
 		}
 	],
 	"preferences": {
@@ -18492,6 +18500,8 @@
 		"showCodes": true,
 		"gridSize": 16,
 		"showLiga": false,
-		"showGrid": true
+		"showGrid": true,
+		"showGlyphs": true,
+		"showQuickUse": true
 	}
 }
