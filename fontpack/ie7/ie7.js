@@ -63,6 +63,7 @@
 		'icon-rss': '&#xe625;',
 		'icon-bullhorn': '&#xe617;',
 		'icon-globe': '&#xe618;',
+		'icon-reorder': '&#xe649;',
 		'icon-caret-left': '&#xe637;',
 		'icon-caret-right': '&#xe60f;',
 		'icon-exchange': '&#xe636;',

@@ -148,6 +148,9 @@
 .icon-globe {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe618;');
 }
+.icon-reorder {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe649;');
+}
 .icon-caret-left {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe637;');
 }
