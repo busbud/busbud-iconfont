@@ -70,6 +70,7 @@
 		'icon-caret-left': '&#xe637;',
 		'icon-caret-right': '&#xe60f;',
 		'icon-exchange': '&#xe636;',
+		'icon-building': '&#xe64d;',
 		'icon-angle-left': '&#xe63f;',
 		'icon-angle-right': '&#xe640;',
 		'icon-angle-up': '&#xe641;',
