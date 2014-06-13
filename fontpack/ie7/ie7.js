@@ -58,6 +58,7 @@
 		'icon-shopping-cart': '&#xe61c;',
 		'icon-resize-horizontal': '&#xe620;',
 		'icon-facebook-sign': '&#xe624;',
+		'icon-trophy': '&#xe64e;',
 		'icon-phone': '&#xe616;',
 		'icon-twitter': '&#xe623;',
 		'icon-rss': '&#xe625;',
